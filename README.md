@@ -47,8 +47,12 @@ Base de dados (tabelas previstas)
 • partidas (id_partida, data_hora, duracao_segundos, equipa_vencedora_id)
 • estatisticas_jogador (id_estatistica, id_utilizador, partidas_jogadas, vitorias, derrotas, eliminacoes)
 
+
 Planeamento
 
 
 Fase	Período	Estado
-Análise e modelação da base de dados
+Análise e modelação da base de dados	nov	Por fazer
+Desenvolvimento do núcleo mínimo	dez – mar	Por fazer
+Testes e correções	abr	Por fazer
+Relatório e apresentação	mai – jun	Por fazer
